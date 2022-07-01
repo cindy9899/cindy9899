@@ -1,20 +1,24 @@
-### Hi there 👋
-
-<!--
-**cindy9899/cindy9899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Park%20Yeonhoo&fontColor=ffffff&height=200)
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/melody_yhoo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+### 🌱Introduction
+안녕하세요! 수학과와 컴퓨터공학과를 졸업하고 프론트엔드 공부중입니다.<br />
+언제나 성장하고 싶어하는 끝없이 성잘할 신입 개발자입니다 :purple_heart:!
+
+
+### ✨Platforms & Language
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)   
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+
+### ✨Tools
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+
+### 🤔Programmers
+![image](https://user-images.githubusercontent.com/69252064/176834969-6fcb192c-5b7e-4c60-b0bf-9cafeca5fe06.png)   
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cindy9899&show_icons=true&theme=material-palenight)
+
+
+</div>
+
