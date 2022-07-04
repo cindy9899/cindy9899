@@ -17,7 +17,7 @@
 <br/>
   
 ### 🤔Programmers
-<img width="303" alt="스크린샷 2022-07-04 오후 2 20 25" src="https://user-images.githubusercontent.com/69252064/177086429-2cd6ef6d-f5ec-4a5a-a047-553a59f565bd.png">
+<img width="312" alt="스크린샷 2022-07-04 오후 3 43 22" src="https://user-images.githubusercontent.com/69252064/177096785-fd0f0e66-a52e-4e25-9428-34ece7fe3439.png">
 <br/><br/><br/><br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cindy9899&show_icons=true&theme=material-palenight)
