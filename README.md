@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Park%20Yeonhoo&fontColor=ffffff&height=200)
 
 ### 🌱Introduction
-안녕하세요! 수학과와 컴퓨터공학과를 졸업하고 프론트엔드 공부중입니다.<br />
+안녕하세요! 수학과와 컴퓨터공학과를 졸업하고 웹개발 공부중입니다.<br />
 언제나 배우려고 노력하는 끝없이 성장할 신입 개발자입니다 :purple_heart:!
 <br/>
 
